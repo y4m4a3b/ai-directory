@@ -4,9 +4,9 @@ import re
 from datetime import datetime
 
 # 入力ファイルと出力先設定
-input_file = "../data/resources_summarized.json"
-content_dir = "../nextjs_app/content"
-html_dir = "../public"
+input_file = "data/resources_summarized.json"
+content_dir = "nextjs_app/content"
+html_dir = "public"
 
 os.makedirs(content_dir, exist_ok=True)
 os.makedirs(html_dir, exist_ok=True)
