@@ -1,0 +1,8 @@
+---
+title: "TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host"
+date: "Fri, 24 Oct 2025 15:30:00 +0000"
+source: "TechCrunch"
+link: "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/"
+---
+
+With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike.
