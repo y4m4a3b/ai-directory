@@ -127,3 +127,22 @@ File saved as: data/resources.json
 ✅ 40 個の記事HTMLを生成しました: public/articles
 ✅ 一覧HTMLも生成しました: public/index.html
 📤 ステップ4: GitHubに自動プッシュ...
+[main e5a8a8c] auto update: 2025-10-25 10:33:26
+ Committer: Yudai Morino <yudaimorino@YudainoMacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 112 insertions(+)
+To https://github.com/y4m4a3b/ai-directory.git
+   9e5145e..e5a8a8c  main -> main
+✅ すべて完了: 2025-10-25 10:33:26
+=============================
