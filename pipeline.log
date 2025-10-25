@@ -162,3 +162,40 @@ File saved as: data/resources.json
 🖋️ ステップ3: HTML生成中...
 ✅ 一覧HTMLを生成しました: public/index.html
 📤 ステップ4: GitHubに自動プッシュ...
+[main fffd659] auto update: 2025-10-25 22:49:44
+ Committer: Yudai Morino <yudaimorino@YudainoMacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 225 insertions(+), 208 deletions(-)
+ create mode 100644 docs/.DS_Store
+ create mode 100644 public/index.html
+To https://github.com/y4m4a3b/ai-directory.git
+   7b49317..fffd659  main -> main
+✅ すべて完了: 2025-10-25 22:49:44
+=============================
+=============================
+🚀 パイプライン実行開始: 2025-10-25 23:12:24
+=============================
+📡 ステップ1: RSS収集中...
+Fetching: https://techcrunch.com/feed/
+Fetching: https://www.theverge.com/rss/index.xml
+Fetching: https://gigazine.net/news/rss_2.0/
+Fetching: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+✅ Done! Collected 40 items.
+File saved as: data/resources.json
+🧠 ステップ2: 要約生成中...
+✅ 要約付きデータを保存しました: data/resources_summarized.json
+🖋️ ステップ3: HTML生成中...
+✅ 40 件の記事を docs に出力しました。
+📤 ステップ4: GitHubに自動プッシュ...
