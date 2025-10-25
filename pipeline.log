@@ -146,3 +146,19 @@ To https://github.com/y4m4a3b/ai-directory.git
    9e5145e..e5a8a8c  main -> main
 ✅ すべて完了: 2025-10-25 10:33:26
 =============================
+=============================
+🚀 パイプライン実行開始: 2025-10-25 22:49:44
+=============================
+📡 ステップ1: RSS収集中...
+Fetching: https://techcrunch.com/feed/
+Fetching: https://www.theverge.com/rss/index.xml
+Fetching: https://gigazine.net/news/rss_2.0/
+Fetching: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+✅ Done! Collected 40 items.
+File saved as: data/resources.json
+🧠 ステップ2: 要約生成中...
+✅ 要約付きデータを保存しました: data/resources_summarized.json
+🖋️ ステップ3: HTML生成中...
+✅ 一覧HTMLを生成しました: public/index.html
+📤 ステップ4: GitHubに自動プッシュ...

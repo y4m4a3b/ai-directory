@@ -1,5 +1,29 @@
 [
   {
+    "title": "India, the market BlaBlaCar once walked away from, is now its biggest",
+    "link": "https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/",
+    "published": "Sat, 25 Oct 2025 14:00:00 +0000",
+    "summary": "BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year.",
+    "source": "TechCrunch",
+    "summary_short": "BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year."
+  },
+  {
+    "title": "The glaring security risks with AI browser agents",
+    "link": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
+    "published": "Sat, 25 Oct 2025 12:00:00 +0000",
+    "summary": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
+    "source": "TechCrunch",
+    "summary_short": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks."
+  },
+  {
+    "title": "Musk’s ad chief at X departs after just 10 months",
+    "link": "https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/",
+    "published": "Sat, 25 Oct 2025 06:46:38 +0000",
+    "summary": "The revolving door reportedly reflects deeper tensions.",
+    "source": "TechCrunch",
+    "summary_short": "The revolving door reportedly reflects deeper tensions."
+  },
+  {
     "title": "A comprehensive list of 2025 tech layoffs",
     "link": "https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/",
     "published": "Fri, 24 Oct 2025 19:55:31 +0000",
@@ -56,28 +80,44 @@
     "summary_short": "With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike."
   },
   {
-    "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
-    "link": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/",
-    "published": "Fri, 24 Oct 2025 15:00:00 +0000",
-    "summary": "The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more. Browse the full lineup and register today to save up to $444, and get 60% off a second pass before prices rise on October 27.",
-    "source": "TechCrunch",
-    "summary_short": "The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more."
+    "title": "ICE is building a social media panopticon",
+    "link": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault",
+    "published": "2025-10-25T10:00:00-04:00",
+    "summary": "As Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that ICE is paying $5.7 million to use an AI-powered social media monitoring platform called Zignal [&#8230;]",
+    "source": "The Verge",
+    "summary_short": "As Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that ICE is paying $5."
   },
   {
-    "title": "Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse",
-    "link": "https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/",
-    "published": "Fri, 24 Oct 2025 14:57:06 +0000",
-    "summary": "Automattic has filed counterclaims against WP Engine, alleging that the company — backed by private equity firm Silver Lake — misused WordPress and WooCommerce trademarks, misled users, and undermined the open source community.",
-    "source": "TechCrunch",
-    "summary_short": "Automattic has filed counterclaims against WP Engine, alleging that the company — backed by private equity firm Silver Lake — misused WordPress and WooCommerce trademarks, misled users, and undermined the open source community."
+    "title": "Ball x Pit is a deep, delightful rabbit hole",
+    "link": "https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s",
+    "published": "2025-10-25T09:00:00-04:00",
+    "summary": "It took me a while to get into Ball x Pit. The new roguelike blends elements from games like Breakout, Vampire Survivors, and even city builders, creating a complex mix of ideas. But as is the case with many roguelikes, once I figured everything out well enough to get a taste of my first win, [&#8230;]",
+    "source": "The Verge",
+    "summary_short": "It took me a while to get into Ball x Pit. The new roguelike blends elements from games like Breakout, Vampire Survivors, and even city builders, creating a complex mix of ideas."
   },
   {
-    "title": "Rivian will pay $250M to settle lawsuit over R1 price hike",
-    "link": "https://techcrunch.com/2025/10/24/rivian-will-pay-250m-to-settle-lawsuit-over-r1-price-hike/",
-    "published": "Fri, 24 Oct 2025 14:43:01 +0000",
-    "summary": "The three-year-old lawsuit centered on Rivian's sudden decision to increase prices on the R1 lineup in 2022, which sank the stock price.",
-    "source": "TechCrunch",
-    "summary_short": "The three-year-old lawsuit centered on Rivian's sudden decision to increase prices on the R1 lineup in 2022, which sank the stock price."
+    "title": "Is Waymo ready for winter?",
+    "link": "https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing",
+    "published": "2025-10-25T08:00:00-04:00",
+    "summary": "During a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely handle the snow. In its first few years of operation, Waymo has [&#8230;]",
+    "source": "The Verge",
+    "summary_short": "During a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely handle the snow. In its first few years of operation, Waymo has [&#8230;]"
+  },
+  {
+    "title": "The rise of &#8220;catch a cheater&#8221; apps exploits our worst human tendencies",
+    "link": "https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder",
+    "published": "2025-10-25T08:00:00-04:00",
+    "summary": "When people sign up for a dating site like Tinder, they don't expect their profiles and personal information to be searchable - especially by a scorned lover, or worse. But that's what popular apps like Cheaterbuster or CheatEye seem to be doing under the guise of being able to \"catch cheaters.\" Last week, 404 Media [&#8230;]",
+    "source": "The Verge",
+    "summary_short": "When people sign up for a dating site like Tinder, they don't expect their profiles and personal information to be searchable - especially by a scorned lover, or worse. But that's what popular apps like Cheaterbuster or CheatEye seem to be doing under the guise of being able to \"catch cheaters."
+  },
+  {
+    "title": "Bored Ape Yacht Club is making a comeback — as a metaverse",
+    "link": "https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs",
+    "published": "2025-10-24T23:30:00-04:00",
+    "summary": "It's dusk, and bugs are chirping all around me. I'm wandering through the middle of a big, virtual swamp toward the sound of thumping bass off in the distance. There isn't much else nearby - some trees, a couple of other players. It's mostly just me and the sound emanating from a large wooden structure [&#8230;]",
+    "source": "The Verge",
+    "summary_short": "It's dusk, and bugs are chirping all around me. I'm wandering through the middle of a big, virtual swamp toward the sound of thumping bass off in the distance."
   },
   {
     "title": "Sam Altman’s next startup eyes using sound waves to read your brain",
@@ -120,44 +160,60 @@
     "summary_short": "Halo Studios has created something special for the 25th anniversary of Halo next year. Halo: Campaign Evolved is a full remake of the original Combat Evolved that launched alongside Microsoft’s first Xbox console in 2001."
   },
   {
-    "title": "DJI’s excellent Osmo Pocket 3 is over $200 off in its first sale since tariffs",
-    "link": "https://www.theverge.com/tech/806400/dji-osmo-pocket-3-creator-combo-deal-sale-price-after-tariffs",
-    "published": "2025-10-24T16:04:07-04:00",
-    "summary": "I use a DJI Osmo Pocket 3 every single week to help film Today I’m Toying With, and I love it to pieces. The baby steadicam’s one of the most popular gadgets the company’s ever sold, because it’s so good at automatically capturing stabilized video of whatever I want, far better than a phone. What [&#8230;]",
-    "source": "The Verge",
-    "summary_short": "I use a DJI Osmo Pocket 3 every single week to help film Today I’m Toying With, and I love it to pieces. The baby steadicam’s one of the most popular gadgets the company’s ever sold, because it’s so good at automatically capturing stabilized video of whatever I want, far better than a phone."
+    "title": "画像認識AIモデル「Qwen3-VL」の軽量版が登場したので使ってみた、低いVRAM使用量で高性能を実現",
+    "link": "https://gigazine.net/news/20251025-qwen3-vl-4b-and-8b/",
+    "published": "Sat, 25 Oct 2025 23:00:00 +0900",
+    "summary": "Qwen3-VLの軽量版であるQwen3-VL-4BおよびQwen3-VL-8Bが公開されました。これらのモデルは、Qwen3-VLの全機能が保持されており、従来のモデルに比べて大幅にVRAM使用量を削減しつつ、Qwen2.5-VL-72Bに匹敵する性能を発揮するとのことで試しにローカルPCにインストールして使ってみました。<p><b><a href=\"https://gigazine.net/news/20251025&#45;qwen3&#45;vl&#45;4b&#45;and&#45;8b/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "Qwen3-VLの軽量版であるQwen3-VL-4BおよびQwen3-VL-8Bが公開されました。 これらのモデルは、Qwen3-VLの全機能が保持されており、従来のモデルに比べて大幅にVRAM使用量を削減しつつ、Qwen2."
   },
   {
-    "title": "Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time",
-    "link": "https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale",
-    "published": "2025-10-24T14:14:29-04:00",
-    "summary": "Halloween parties are fun. The preparation and cleanup? Not so much. Luckily for those looking to make life a little easier next week, Eufy’s X10 Pro Omni is available from Amazon for $499.99 ($300 off) when you clip the on-page coupon, which matches the all-time low we last saw during Amazon’s October Prime Day event. [&#8230;]",
-    "source": "The Verge",
-    "summary_short": "Halloween parties are fun. The preparation and cleanup?"
+    "title": "膀胱を危険にさらす「6つの習慣」とは？",
+    "link": "https://gigazine.net/news/20251025-six-habits-sabotage-bladder-health/",
+    "published": "Sat, 25 Oct 2025 22:00:00 +0900",
+    "summary": "膀胱(ぼうこう)は、腎臓から送られてくる尿を排せつするまで一時的にためておく器官であり、地味ながらも生活の質にとって重要なものです。そんな膀胱を危険にさらす「6つの習慣」について、イギリスのキングストン大学で薬学実務の上級講師を務めるディパ・カムダール氏が解説しました。<p><b><a href=\"https://gigazine.net/news/20251025&#45;six&#45;habits&#45;sabotage&#45;bladder&#45;health/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "膀胱(ぼうこう)は、腎臓から送られてくる尿を排せつするまで一時的にためておく器官であり、地味ながらも生活の質にとって重要なものです。 そんな膀胱を危険にさらす「6つの習慣」について、イギリスのキングストン大学で薬学実務の上級講師を務めるディパ・カムダール氏が解説しました。"
   },
   {
-    "title": "Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode",
-    "link": "https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown",
-    "published": "2025-10-24T14:03:42-04:00",
-    "summary": "Two years after US-based Neato Robotics closed up shop in 2023, its robot vacuum cleaners have reached the end of the road (or rather, hallway). Users are receiving emails notifying them that their Neato robovacs will no longer have access to cloud services, meaning they can’t be controlled through the robots’ MyNeato app anymore.&#160; In [&#8230;]",
-    "source": "The Verge",
-    "summary_short": "Two years after US-based Neato Robotics closed up shop in 2023, its robot vacuum cleaners have reached the end of the road (or rather, hallway). Users are receiving emails notifying them that their Neato robovacs will no longer have access to cloud services, meaning they can’t be controlled through the robots’ MyNeato app anymore."
+    "title": "ついにXboxの名作FPSゲーム「Halo」がPlayStationに登場、初代HaloをUE5でリメイクした「Halo: Campaign Evolved」のPS5版が2026年に発売決定",
+    "link": "https://gigazine.net/news/20251025-halo-campaign-evolved--ps5/",
+    "published": "Sat, 25 Oct 2025 20:19:00 +0900",
+    "summary": "HaloシリーズはXboxを代表する名作FPSゲームです。新たに、初代HaloのキャンペーンモードをUnreal Engine 5でリメイクした「Halo: Campaign Evolved」が2026年に発売予定であることが発表されました。Halo: Campaign EvolvedはXbox Series X|SやPCだけでなくPlayStation 5向けにもリリースされます。<p><b><a href=\"https://gigazine.net/news/20251025&#45;halo&#45;campaign&#45;evolved&#45;&#45;ps5/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "HaloシリーズはXboxを代表する名作FPSゲームです。 新たに、初代HaloのキャンペーンモードをUnreal Engine 5でリメイクした「Halo: Campaign Evolved」が2026年に発売予定であることが発表されました。"
   },
   {
-    "title": "Kirby Air Riders&#8217; impressive accessibility features are a rarity for Nintendo",
-    "link": "https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2",
-    "published": "2025-10-24T13:00:00-04:00",
-    "summary": "The latest Nintendo Direct on October 23rd brought us an hour-long dive into Kirby Air Riders, as well as a surprising accessibility announcement. Hosted by game director Masahiro Sakurai, the Direct showed off more features, gameplay, and modes for the racing game releasing for the Switch 2 on November 20th. Tucked toward the end of [&#8230;]",
-    "source": "The Verge",
-    "summary_short": "The latest Nintendo Direct on October 23rd brought us an hour-long dive into Kirby Air Riders, as well as a surprising accessibility announcement. Hosted by game director Masahiro Sakurai, the Direct showed off more features, gameplay, and modes for the racing game releasing for the Switch 2 on November 20th."
+    "title": "ChatGPTの自殺訴訟でOpenAIは「葬儀出席者リスト」を要求",
+    "link": "https://gigazine.net/news/20251025-openai-suicide/",
+    "published": "Sat, 25 Oct 2025 20:00:00 +0900",
+    "summary": "チャットAIを検索やタスクのサポートだけではなく、話し相手として扱う人も増えている中、ChatGPTとGeminiなどのチャットAIとのやりとりでユーザーの自殺願望が助長されるという調査結果が報告されています。実際に、息子を亡くした遺族が「ChatGPTが自殺願望を助長・正当化した」と主張する訴訟が2025年8月に提起されましたが、訴訟に当たってOpenAIが「葬儀に関するすべての文書や撮影された写真・ビデオ、招待状や出席リスト」を要求したと遺族側の弁護士が語り、「異例かつ意図的な嫌がらせ」だと非難しています。<p><b><a href=\"https://gigazine.net/news/20251025&#45;openai&#45;suicide/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "チャットAIを検索やタスクのサポートだけではなく、話し相手として扱う人も増えている中、ChatGPTとGeminiなどのチャットAIとのやりとりでユーザーの自殺願望が助長されるという調査結果が報告されています。 実際に、息子を亡くした遺族が「ChatGPTが自殺願望を助長・正当化した」と主張する訴訟が2025年8月に提起されましたが、訴訟に当たってOpenAIが「葬儀に関するすべての文書や撮影された写真・ビデオ、招待状や出席リスト」を要求したと遺族側の弁護士が語り、「異例かつ意図的な嫌がらせ」だと非難しています。"
   },
   {
-    "title": "Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99",
-    "link": "https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale",
-    "published": "2025-10-24T12:40:56-04:00",
-    "summary": "When the Epomaker P75 launched last year, it impressed us with its build quality and laundry list of features, especially for a board that retails for less than $100. And while the mechanical keyboard has since been discontinued, it remains an excellent choice you can still pick up with either the linear or tactile switches [&#8230;]",
-    "source": "The Verge",
-    "summary_short": "When the Epomaker P75 launched last year, it impressed us with its build quality and laundry list of features, especially for a board that retails for less than $100. And while the mechanical keyboard has since been discontinued, it remains an excellent choice you can still pick up with either the linear or tactile switches [&#8230;]"
+    "title": "スタジオジブリに憧れた監督が制作したパキスタン初の長編手描きアニメ映画『The Glassworker』日本語吹替版制作＆全国公開に向けてクラウドファンディング実施",
+    "link": "https://gigazine.net/news/20251025-pakistan-anime-theglassworker/",
+    "published": "Sat, 25 Oct 2025 15:45:00 +0900",
+    "summary": "史上最年少のTEDフェローでプロギタリストとしても活躍するウスマン・リアス監督が手がける、パキスタン初の長編手描きアニメ映画『The Glassworker』の日本語吹替版制作と、日本全国での公開を目指したクラウドファンディングが行われています。<p><b><a href=\"https://gigazine.net/news/20251025&#45;pakistan&#45;anime&#45;theglassworker/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "史上最年少のTEDフェローでプロギタリストとしても活躍するウスマン・リアス監督が手がける、パキスタン初の長編手描きアニメ映画『The Glassworker』の日本語吹替版制作と、日本全国での公開を目指したクラウドファンディングが行われています。 続きを読む."
+  },
+  {
+    "title": "M5搭載iPad Proベンチマーク結果まとめ、「前世代比でGPU演算性能4倍＆グラフィックス性能45％向上」というM5の性能をチェック",
+    "link": "https://gigazine.net/news/20251025-apple-m5-ipad-pro-benchmark/",
+    "published": "Sat, 25 Oct 2025 15:00:00 +0900",
+    "summary": "2025年10月22日(金)に登場したiPad Proには、記事作成時点で最新のAppleシリコンとなるM5チップが搭載されています。このM5チップについて、Appleが「各コアにNeural Acceleratorを備えた次世代の10コアGPUアーキテクチャを導入し、GPUベースのAIワークロードの実行を劇的に高速化し、M4と比較して4倍を超えるピーク時のGPU演算性能を発揮します」とアピールしているので、果たしてM5はどれだけの性能なのかを確かめるべく、M5搭載iPad Proでさまざまなベンチマークを走らせてみました。<p><b><a href=\"https://gigazine.net/news/20251025&#45;apple&#45;m5&#45;ipad&#45;pro&#45;benchmark/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "2025年10月22日(金)に登場したiPad Proには、記事作成時点で最新のAppleシリコンとなるM5チップが搭載されています。 このM5チップについて、Appleが「各コアにNeural Acceleratorを備えた次世代の10コアGPUアーキテクチャを導入し、GPUベースのAIワークロードの実行を劇的に高速化し、M4と比較して4倍を超えるピーク時のGPU演算性能を発揮します」とアピールしているので、果たしてM5はどれだけの性能なのかを確かめるべく、M5搭載iPad Proでさまざまなベンチマークを走らせてみました。"
+  },
+  {
+    "title": "Netflixがゲーム版イカゲームの開発スタジオを閉鎖、107か国でランキング1位を獲得＆Netflixが目指すべきゲームアプリの姿と社内から称賛の声が上がるも",
+    "link": "https://gigazine.net/news/20251025-netflix-closes-squid-game-studio/",
+    "published": "Sat, 25 Oct 2025 14:01:00 +0900",
+    "summary": "Netflixのオリジナルコンテンツとして人気を博す「イカゲーム」のモバイルゲーム版である「Squid Game: Unleashed(イカゲーム：地獄のデスマッチ)」の開発元であるゲームスタジオBoss Fight Entertainmentが、閉鎖されることが明らかになりました。<p><b><a href=\"https://gigazine.net/news/20251025&#45;netflix&#45;closes&#45;squid&#45;game&#45;studio/\">続きを読む...</a></b></p>",
+    "source": "GIGAZINE",
+    "summary_short": "Netflixのオリジナルコンテンツとして人気を博す「イカゲーム」のモバイルゲーム版である「Squid Game: Unleashed(イカゲーム：地獄のデスマッチ)」の開発元であるゲームスタジオBoss Fight Entertainmentが、閉鎖されることが明らかになりました。 続きを読む."
   },
   {
     "title": "実はそんなに怖がる必要のない「よくある飛行機事故」4選",
@@ -182,62 +238,6 @@
     "summary": "日本時間2025年10月20日に発生したAWSの大規模障害は数十兆円規模の経済的損失が出たといわれています。この混乱の中、高級スマートベッドを提供しているEight Sleepでは、ベッドの傾きが戻せなくなったり、マットレスが高温になったりする不具合が発生し、クラウドネットワークに依存しない「停電モード」を追加する事態となりました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;smart&#45;beds&#45;stuck/\">続きを読む...</a></b></p>",
     "source": "GIGAZINE",
     "summary_short": "日本時間2025年10月20日に発生したAWSの大規模障害は数十兆円規模の経済的損失が出たといわれています。 この混乱の中、高級スマートベッドを提供しているEight Sleepでは、ベッドの傾きが戻せなくなったり、マットレスが高温になったりする不具合が発生し、クラウドネットワークに依存しない「停電モード」を追加する事態となりました。"
-  },
-  {
-    "title": "ジャコウネコのうんちから取れる最高級コーヒー豆「コピ・ルアク」は化学的に他の豆と異なることが判明",
-    "link": "https://gigazine.net/news/20251024-kopi-luwak-coffee-chemically-different/",
-    "published": "Fri, 24 Oct 2025 21:00:00 +0900",
-    "summary": "世界最高級のコーヒー豆ともいわれるコピ・ルアクは、ジャコウネコの一種であるパームシベットのふんから取り出された未消化のコーヒー豆です。新たな研究により、独特の複雑な香りがあるとされるコピ・ルアクは、実際に他のコーヒー豆とは化学的に異なることが明らかになりました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;kopi&#45;luwak&#45;coffee&#45;chemically&#45;different/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "世界最高級のコーヒー豆ともいわれるコピ・ルアクは、ジャコウネコの一種であるパームシベットのふんから取り出された未消化のコーヒー豆です。 新たな研究により、独特の複雑な香りがあるとされるコピ・ルアクは、実際に他のコーヒー豆とは化学的に異なることが明らかになりました。"
-  },
-  {
-    "title": "2025年10月24日のヘッドラインニュース",
-    "link": "https://gigazine.net/news/20251024-headline/",
-    "published": "Fri, 24 Oct 2025 19:26:00 +0900",
-    "summary": "アニメ『サザエさん』初のアーケードゲーム『サザエさんまちがいさがし』が2026年春から稼働することになりました。実際に放送されたアニメを題材に、タッチパネルでまちがいを探していくという内容で、アミューズメント施設に設置されます。<p><b><a href=\"https://gigazine.net/news/20251024&#45;headline/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "アニメ『サザエさん』初のアーケードゲーム『サザエさんまちがいさがし』が2026年春から稼働することになりました。 実際に放送されたアニメを題材に、タッチパネルでまちがいを探していくという内容で、アミューズメント施設に設置されます。"
-  },
-  {
-    "title": "AIがスナック菓子の袋を銃だと誤認識したせいで男子生徒が武装警官に取り囲まれて手錠で拘束される事態が発生",
-    "link": "https://gigazine.net/news/20251024-doritos-gun-ai-omnilert/",
-    "published": "Fri, 24 Oct 2025 19:00:00 +0900",
-    "summary": "アメリカでは銃撃事件が多発しており、監視カメラとAIを用いた銃火器自動検知システムを導入する学校や企業が増えています。ところが、メリーランド州ボルチモアの学校ではドリトスの袋をポケットに入れていただけの男子生徒が銃を所持していると誤検知されて武装警官に取り囲まれる事態が発生しました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;doritos&#45;gun&#45;ai&#45;omnilert/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "アメリカでは銃撃事件が多発しており、監視カメラとAIを用いた銃火器自動検知システムを導入する学校や企業が増えています。 ところが、メリーランド州ボルチモアの学校ではドリトスの袋をポケットに入れていただけの男子生徒が銃を所持していると誤検知されて武装警官に取り囲まれる事態が発生しました。"
-  },
-  {
-    "title": "世界一の美食の国・ペルーの名物料理「アヒ・デ・ガジーナ」をカップヌードルで再現した「カップヌードル ペルー式チキンのクリーム煮込み味」試食レビュー",
-    "link": "https://gigazine.net/news/20251024-nissin-cupnoodle-aji-de-gallina/",
-    "published": "Fri, 24 Oct 2025 17:00:00 +0900",
-    "summary": "世界各国で親しまれている料理を再現する日清食品の「世界のカップヌードル」シリーズから、ペルーの名物料理「アヒ・デ・ガジーナ」を再現した「カップヌードル ペルー式チキンのクリーム煮込み味」が2025年10月27日に登場します。発売前に一足早く食べる機会を得られたので、アヒ・デ・ガジーナとはどんな料理なのかを体験するべく、実際に食べてみました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;nissin&#45;cupnoodle&#45;aji&#45;de&#45;gallina/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "世界各国で親しまれている料理を再現する日清食品の「世界のカップヌードル」シリーズから、ペルーの名物料理「アヒ・デ・ガジーナ」を再現した「カップヌードル ペルー式チキンのクリーム煮込み味」が2025年10月27日に登場します。 発売前に一足早く食べる機会を得られたので、アヒ・デ・ガジーナとはどんな料理なのかを体験するべく、実際に食べてみました。"
-  },
-  {
-    "title": "トランプ大統領が有罪判決を受けていた仮想通貨取引所・Binanceの創業者に「完全かつ無条件の恩赦」を与えると決定",
-    "link": "https://gigazine.net/news/20251024-trump-pardons-binance-founder-cz-zhao/",
-    "published": "Fri, 24 Oct 2025 15:09:00 +0900",
-    "summary": "現地時間の2025年10月23日(木)、アメリカのドナルド・トランプ大統領が仮想通貨取引所・Binanceの創業者であり、マネーロンダリングの罪を認め実刑判決を受けたチャンポン・ジャオ氏に恩赦を与えました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;trump&#45;pardons&#45;binance&#45;founder&#45;cz&#45;zhao/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "現地時間の2025年10月23日(木)、アメリカのドナルド・トランプ大統領が仮想通貨取引所・Binanceの創業者であり、マネーロンダリングの罪を認め実刑判決を受けたチャンポン・ジャオ氏に恩赦を与えました。 続きを読む."
-  },
-  {
-    "title": "SpaceXがミャンマーでオンライン詐欺に使われた可能性がある2500台超のStarlink端末を無効化したと発表",
-    "link": "https://gigazine.net/news/20251024-starlink-blocks-2500-dishes-myanmars-scam/",
-    "published": "Fri, 24 Oct 2025 12:50:00 +0900",
-    "summary": "イーロン・マスク氏が率いる宇宙開発企業のSpaceXは、衛星インターネットサービスのStarlinkを世界各地で展開しています。SpaceXの事業運営担当ヴァイスプレジデントのローレン・ドレイヤー氏が、ミャンマーで詐欺に使われたと疑われるStarlink端末2500台超を無効化したと発表しました。<p><b><a href=\"https://gigazine.net/news/20251024&#45;starlink&#45;blocks&#45;2500&#45;dishes&#45;myanmars&#45;scam/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "イーロン・マスク氏が率いる宇宙開発企業のSpaceXは、衛星インターネットサービスのStarlinkを世界各地で展開しています。 SpaceXの事業運営担当ヴァイスプレジデントのローレン・ドレイヤー氏が、ミャンマーで詐欺に使われたと疑われるStarlink端末2500台超を無効化したと発表しました。"
-  },
-  {
-    "title": "Amazonが2つの新しいロボットシステム「Blue Jay」「Project Eluna」を発表、Amazonは「雇用を奪うわけではない」とアピール",
-    "link": "https://gigazine.net/news/20251024-blue-jay-project-eluna/",
-    "published": "Fri, 24 Oct 2025 12:40:00 +0900",
-    "summary": "Amazonが業務に携わるロボット・AIの新技術として、複数のロボットアームを協調させて荷物を扱う「Blue Jay」、AIを活用して施設内の作業割り振りやトラブルを解決する「Project Eluna」を発表しました。事前報道では「50万人の従業員をロボットに置き換える計画」と報じられていましたが、Amazonは「私たちは雇用を奪ってきたのではなく、増やしてきた企業だ」と反論しています。<p><b><a href=\"https://gigazine.net/news/20251024&#45;blue&#45;jay&#45;project&#45;eluna/\">続きを読む...</a></b></p>",
-    "source": "GIGAZINE",
-    "summary_short": "Amazonが業務に携わるロボット・AIの新技術として、複数のロボットアームを協調させて荷物を扱う「Blue Jay」、AIを活用して施設内の作業割り振りやトラブルを解決する「Project Eluna」を発表しました。 事前報道では「50万人の従業員をロボットに置き換える計画」と報じられていましたが、Amazonは「私たちは雇用を奪ってきたのではなく、増やしてきた企業だ」と反論しています。"
   },
   {
     "title": "Meta Layoffs Included Employees Who Monitored Risks to User Privacy",
@@ -270,6 +270,14 @@
     "summary": "In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.",
     "source": "NYT > Technology",
     "summary_short": "In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A. I."
+  },
+  {
+    "title": "Y2K Kids Were the Last to Really Rage With No One Watching",
+    "link": "https://www.nytimes.com/2025/10/25/arts/music/korn-nu-metal-rock-y2k.html",
+    "published": "Sat, 25 Oct 2025 09:00:24 +0000",
+    "summary": "The angst of nu metal is being discovered by Gen Z, but with digital eyes always looming, the ephemeral catharsis of collectively going mad is a thing of the past.",
+    "source": "NYT > Technology",
+    "summary_short": "The angst of nu metal is being discovered by Gen Z, but with digital eyes always looming, the ephemeral catharsis of collectively going mad is a thing of the past."
   },
   {
     "title": "With Halo: Campaign Evolved, Microsoft Brings Prized Xbox Game to PlayStation",
@@ -310,13 +318,5 @@
     "summary": "The company sold more cars but made less money on each one because of discounts and low-interest loans.",
     "source": "NYT > Technology",
     "summary_short": "The company sold more cars but made less money on each one because of discounts and low-interest loans."
-  },
-  {
-    "title": "Does Your Electric Bill Keep Going Up? We Want to See It.",
-    "link": "https://www.nytimes.com/2025/10/22/business/energy-environment/electric-bill-questionnaire.html",
-    "published": "Wed, 22 Oct 2025 16:43:43 +0000",
-    "summary": "Utility rates are rising in many places across the country, and we’re continuing to report on the causes and impacts.",
-    "source": "NYT > Technology",
-    "summary_short": "Utility rates are rising in many places across the country, and we’re continuing to report on the causes and impacts."
   }
 ]
