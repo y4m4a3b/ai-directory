@@ -1,42 +1,39 @@
 #!/bin/bash
-set -e  # エラーが出たら即停止
+# ======================================
+# AI Directory 自動更新パイプライン
+# RSS収集 → 要約 → HTML生成 → GitHub反映
+# ======================================
 
-# === 設定 ===
+set -e  # エラーが出たら停止
 
-REPO_DIR="$HOME/Downloads/ai-directory-scaffold"
-LOG_FILE="$REPO_DIR/pipeline.log"
-DATE=$(date '+%Y-%m-%d %H:%M:%S')
+echo "🚀 パイプライン開始：$(date)"
 
-echo "=============================" >> "$LOG_FILE"
-echo "🚀 パイプライン実行開始: $DATE" >> "$LOG_FILE"
-echo "=============================" >> "$LOG_FILE"
+# Python仮想環境を有効化（venv が同階層にある想定）
+if [ -d "venv" ]; then
+  source venv/bin/activate
+  echo "✅ 仮想環境を有効化しました。"
+else
+  echo "⚠️ venv が見つかりません。'python3 -m venv venv' で作成してください。"
+  exit 1
+fi
 
-cd "$REPO_DIR" || { echo "❌ ディレクトリが見つかりません"; exit 1; }
+# ステップ1：RSS収集
+echo "📡 RSS収集中..."
+python3 scripts/scraper.py
 
-# === ステップ1: RSS収集 ===
+# ステップ2：要約処理
+echo "🧠 要約処理中..."
+python3 scripts/summarizer.py
 
-echo "📡 ステップ1: RSS収集中..." | tee -a "$LOG_FILE"
-python3 scripts/scraper.py >> "$LOG_FILE" 2>&1
+# ステップ3：HTML生成
+echo "📝 静的HTMLを生成中..."
+python3 scripts/generate_static.py
 
-# === ステップ2: 要約生成 ===
-
-echo "🧠 ステップ2: 要約生成中..." | tee -a "$LOG_FILE"
-python3 scripts/summarizer.py >> "$LOG_FILE" 2>&1
-
-# === ステップ3: HTML出力 ===
-
-echo "🖋️ ステップ3: HTML生成中..." | tee -a "$LOG_FILE"
-python3 scripts/generate_static.py >> "$LOG_FILE" 2>&1
-
-# === ステップ4: GitHub に自動コミット & プッシュ ===
-
-echo "📤 ステップ4: GitHubに自動プッシュ..." | tee -a "$LOG_FILE"
-
+# ステップ4：GitHub反映
+echo "🌐 GitHub Pagesに反映中..."
 git add .
-git commit -m "auto update: $DATE" >> "$LOG_FILE" 2>&1 || echo "（変更なし）" >> "$LOG_FILE"
-git push origin main >> "$LOG_FILE" 2>&1
+git commit -m "Auto update: $(date '+%Y-%m-%d %H:%M:%S')" || echo "⚠️ 変更なしのためコミットスキップ"
+git push origin main
 
-echo "✅ すべて完了: $DATE" | tee -a "$LOG_FILE"
-echo "=============================" >> "$LOG_FILE"
-
+echo "✅ パイプライン完了：$(date)"
 

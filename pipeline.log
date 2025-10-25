@@ -199,3 +199,79 @@ File saved as: data/resources.json
 🖋️ ステップ3: HTML生成中...
 ✅ 40 件の記事を docs に出力しました。
 📤 ステップ4: GitHubに自動プッシュ...
+[main 8717137] auto update: 2025-10-25 23:12:24
+ Committer: Yudai Morino <yudaimorino@YudainoMacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 68 files changed, 474 insertions(+), 99 deletions(-)
+ create mode 100644 docs/articles/001-india-the-market-blablacar-once-walked-away-from-i.html
+ create mode 100644 docs/articles/001-tiktok-robot-star-rizzbot-gave-me-the-middle-finge.html
+ create mode 100644 docs/articles/002-india-the-market-blablacar-once-walked-away-from-i.html
+ create mode 100644 docs/articles/002-the-glaring-security-risks-with-ai-browser-agents.html
+ create mode 100644 docs/articles/003-musk-s-ad-chief-at-x-departs-after-just-10-months.html
+ create mode 100644 docs/articles/003-the-glaring-security-risks-with-ai-browser-agents.html
+ create mode 100644 docs/articles/004-a-comprehensive-list-of-2025-tech-layoffs.html
+ create mode 100644 docs/articles/004-musk-s-ad-chief-at-x-departs-after-just-10-months.html
+ create mode 100644 docs/articles/005-a-comprehensive-list-of-2025-tech-layoffs.html
+ create mode 100644 docs/articles/005-how-to-use-the-new-chatgpt-app-integrations-includ.html
+ create mode 100644 docs/articles/006-how-to-use-the-new-chatgpt-app-integrations-includ.html
+ create mode 100644 docs/articles/006-the-browser-wars-are-back-and-this-time-they-re-po.html
+ create mode 100644 docs/articles/007-instagram-s-latest-feature-lets-you-go-back-to-see.html
+ create mode 100644 docs/articles/007-the-browser-wars-are-back-and-this-time-they-re-po.html
+ create mode 100644 docs/articles/008-arbor-s-vegetarian-rocket-engine-power-plant-is-ac.html
+ create mode 100644 docs/articles/008-instagram-s-latest-feature-lets-you-go-back-to-see.html
+ create mode 100644 docs/articles/009-arbor-s-vegetarian-rocket-engine-power-plant-is-ac.html
+ create mode 100644 docs/articles/009-ec-finds-meta-and-tiktok-breached-transparency-rul.html
+ create mode 100644 docs/articles/010-ec-finds-meta-and-tiktok-breached-transparency-rul.html
+ create mode 100644 docs/articles/010-techcrunch-disrupt-2025-side-events-schedule-women.html
+ create mode 100644 docs/articles/011-airtags-and-cheap-gaming-laptops-headline-our-favo.html
+ create mode 100644 docs/articles/011-ice-is-building-a-social-media-panopticon.html
+ create mode 100644 docs/articles/012-ball-x-pit-is-a-deep-delightful-rabbit-hole.html
+ create mode 100644 docs/articles/012-what-does-nearly-6-000-of-gaming-laptop-get-you.html
+ create mode 100644 docs/articles/013-ice-is-building-a-social-media-panopticon.html
+ create mode 100644 docs/articles/013-is-waymo-ready-for-winter.html
+ create mode 100644 docs/articles/014-ball-x-pit-is-a-deep-delightful-rabbit-hole.html
+ create mode 100644 docs/articles/014-the-rise-of-8220-catch-a-cheater-8221-apps-exploit.html
+ create mode 100644 docs/articles/015-bored-ape-yacht-club-is-making-a-comeback-as-a-met.html
+ create mode 100644 docs/articles/015-is-waymo-ready-for-winter.html
+ create mode 100644 docs/articles/016-sam-altman-s-next-startup-eyes-using-sound-waves-t.html
+ create mode 100644 docs/articles/016-the-rise-of-8220-catch-a-cheater-8221-apps-exploit.html
+ create mode 100644 docs/articles/017-apple-says-jon-prosser-has-not-indicated-when-he-m.html
+ create mode 100644 docs/articles/017-bored-ape-yacht-club-is-making-a-comeback-as-a-met.html
+ create mode 100644 docs/articles/018-sam-altman-s-next-startup-eyes-using-sound-waves-t.html
+ create mode 100644 docs/articles/018-wordle-has-achievements-now.html
+ create mode 100644 docs/articles/019-apple-says-jon-prosser-has-not-indicated-when-he-m.html
+ create mode 100644 docs/articles/019-i-tested-a-bunch-of-gaming-laptops-and-these-are-t.html
+ create mode 100644 docs/articles/020-halo-campaign-evolved-is-a-gorgeous-remake-that-de.html
+ create mode 100644 docs/articles/020-wordle-has-achievements-now.html
+ create mode 100644 docs/articles/021-ai-qwen3-vl-vram.html
+ create mode 100644 docs/articles/022-6.html
+ create mode 100644 docs/articles/023-xbox-fps-halo-playstation-halo-ue5-halo-campaign-e.html
+ create mode 100644 docs/articles/024-chatgpt-openai.html
+ create mode 100644 docs/articles/025-the-glassworker.html
+ create mode 100644 docs/articles/026-m5-ipad-pro-gpu-4-45-m5.html
+ create mode 100644 docs/articles/027-netflix-107-1-netflix.html
+ create mode 100644 docs/articles/028-4.html
+ create mode 100644 docs/articles/029-.html
+ create mode 100644 docs/articles/030-aws.html
+ create mode 100644 docs/articles/035-y2k-kids-were-the-last-to-really-rage-with-no-one-.html
+ create mode 100644 docs/articles/036-with-halo-campaign-evolved-microsoft-brings-prized.html
+ create mode 100644 docs/articles/037-celebrities-fight-sora-amazon-s-secret-automation-.html
+ create mode 100644 docs/articles/038-after-teen-suicide-character-ai-lawsuit-raises-que.html
+ create mode 100644 docs/articles/039-ford-s-profit-jumps-on-strong-sales-but-company-lo.html
+ create mode 100644 docs/articles/040-tesla-s-profit-falls-37-after-it-cut-car-prices.html
+ delete mode 100644 docs/index2.html
+To https://github.com/y4m4a3b/ai-directory.git
+   fffd659..8717137  main -> main
+✅ すべて完了: 2025-10-25 23:12:24
+=============================
