@@ -15,3 +15,115 @@ File saved as: data/resources.json
 ✅ 40 個の記事HTMLを生成しました: public/articles
 ✅ 一覧HTMLも生成しました: public/index.html
 📤 ステップ4: GitHubに自動プッシュ...
+[main 9e5145e] auto update: 2025-10-25 10:27:06
+ Committer: Yudai Morino <yudaimorino@YudainoMacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 84 files changed, 1107 insertions(+), 262 deletions(-)
+ create mode 100644 nextjs_app/content/001-a-comprehensive-list-of-2025-tech-layoffs.md
+ create mode 100644 nextjs_app/content/002-how-to-use-the-new-chatgpt-app-integrations-includ.md
+ create mode 100644 nextjs_app/content/003-the-browser-wars-are-back-and-this-time-they-re-po.md
+ create mode 100644 nextjs_app/content/004-instagram-s-latest-feature-lets-you-go-back-to-see.md
+ create mode 100644 nextjs_app/content/005-arbor-s-vegetarian-rocket-engine-power-plant-is-ac.md
+ create mode 100644 nextjs_app/content/006-ec-finds-meta-and-tiktok-breached-transparency-rul.md
+ create mode 100644 nextjs_app/content/007-techcrunch-disrupt-2025-side-events-schedule-women.md
+ create mode 100644 nextjs_app/content/008-the-full-breakout-session-agenda-at-techcrunch-dis.md
+ create mode 100644 nextjs_app/content/009-automattic-files-counterclaims-against-wp-engine-i.md
+ create mode 100644 nextjs_app/content/010-rivian-will-pay-250m-to-settle-lawsuit-over-r1-pri.md
+ create mode 100644 nextjs_app/content/011-sam-altman-s-next-startup-eyes-using-sound-waves-t.md
+ create mode 100644 nextjs_app/content/012-apple-says-jon-prosser-has-not-indicated-when-he-m.md
+ create mode 100644 nextjs_app/content/013-wordle-has-achievements-now.md
+ create mode 100644 nextjs_app/content/014-i-tested-a-bunch-of-gaming-laptops-and-these-are-t.md
+ create mode 100644 nextjs_app/content/015-halo-campaign-evolved-is-a-gorgeous-remake-that-de.md
+ create mode 100644 nextjs_app/content/016-dji-s-excellent-osmo-pocket-3-is-over-200-off-in-i.md
+ create mode 100644 nextjs_app/content/017-eufy-s-x10-pro-omni-robovac-is-matching-its-prime-.md
+ create mode 100644 nextjs_app/content/018-neato-s-cloud-is-shutting-down-leaving-its-robovac.md
+ create mode 100644 nextjs_app/content/019-kirby-air-riders-8217-impressive-accessibility-fea.md
+ create mode 100644 nextjs_app/content/020-epomaker-s-surprisingly-great-p75-keyboard-is-on-s.md
+ create mode 100644 nextjs_app/content/021-4.md
+ create mode 100644 nextjs_app/content/023-aws.md
+ create mode 100644 nextjs_app/content/024-.md
+ create mode 100644 nextjs_app/content/025-2025-10-24.md
+ create mode 100644 nextjs_app/content/026-ai.md
+ create mode 100644 nextjs_app/content/027-.md
+ create mode 100644 nextjs_app/content/028-binance.md
+ create mode 100644 nextjs_app/content/029-spacex-2500-starlink.md
+ create mode 100644 nextjs_app/content/030-amazon-2-blue-jay-project-eluna-amazon.md
+ create mode 100644 nextjs_app/content/035-with-halo-campaign-evolved-microsoft-brings-prized.md
+ create mode 100644 nextjs_app/content/036-celebrities-fight-sora-amazon-s-secret-automation-.md
+ create mode 100644 nextjs_app/content/037-after-teen-suicide-character-ai-lawsuit-raises-que.md
+ create mode 100644 nextjs_app/content/038-ford-s-profit-jumps-on-strong-sales-but-company-lo.md
+ create mode 100644 nextjs_app/content/039-tesla-s-profit-falls-37-after-it-cut-car-prices.md
+ create mode 100644 nextjs_app/content/040-does-your-electric-bill-keep-going-up-we-want-to-s.md
+ create mode 100644 pipeline.log
+ create mode 100644 public/articles/001-a-comprehensive-list-of-2025-tech-layoffs.html
+ create mode 100644 public/articles/002-how-to-use-the-new-chatgpt-app-integrations-includ.html
+ create mode 100644 public/articles/003-the-browser-wars-are-back-and-this-time-they-re-po.html
+ create mode 100644 public/articles/004-instagram-s-latest-feature-lets-you-go-back-to-see.html
+ create mode 100644 public/articles/005-arbor-s-vegetarian-rocket-engine-power-plant-is-ac.html
+ create mode 100644 public/articles/006-ec-finds-meta-and-tiktok-breached-transparency-rul.html
+ create mode 100644 public/articles/007-techcrunch-disrupt-2025-side-events-schedule-women.html
+ create mode 100644 public/articles/008-the-full-breakout-session-agenda-at-techcrunch-dis.html
+ create mode 100644 public/articles/009-automattic-files-counterclaims-against-wp-engine-i.html
+ create mode 100644 public/articles/010-rivian-will-pay-250m-to-settle-lawsuit-over-r1-pri.html
+ create mode 100644 public/articles/011-sam-altman-s-next-startup-eyes-using-sound-waves-t.html
+ create mode 100644 public/articles/012-apple-says-jon-prosser-has-not-indicated-when-he-m.html
+ create mode 100644 public/articles/013-wordle-has-achievements-now.html
+ create mode 100644 public/articles/014-i-tested-a-bunch-of-gaming-laptops-and-these-are-t.html
+ create mode 100644 public/articles/015-halo-campaign-evolved-is-a-gorgeous-remake-that-de.html
+ create mode 100644 public/articles/016-dji-s-excellent-osmo-pocket-3-is-over-200-off-in-i.html
+ create mode 100644 public/articles/017-eufy-s-x10-pro-omni-robovac-is-matching-its-prime-.html
+ create mode 100644 public/articles/018-neato-s-cloud-is-shutting-down-leaving-its-robovac.html
+ create mode 100644 public/articles/019-kirby-air-riders-8217-impressive-accessibility-fea.html
+ create mode 100644 public/articles/020-epomaker-s-surprisingly-great-p75-keyboard-is-on-s.html
+ create mode 100644 public/articles/021-4.html
+ create mode 100644 public/articles/022-.html
+ create mode 100644 public/articles/023-aws.html
+ create mode 100644 public/articles/024-.html
+ create mode 100644 public/articles/025-2025-10-24.html
+ create mode 100644 public/articles/026-ai.html
+ create mode 100644 public/articles/027-.html
+ create mode 100644 public/articles/028-binance.html
+ create mode 100644 public/articles/029-spacex-2500-starlink.html
+ create mode 100644 public/articles/030-amazon-2-blue-jay-project-eluna-amazon.html
+ create mode 100644 public/articles/031-meta-layoffs-included-employees-who-monitored-risk.html
+ create mode 100644 public/articles/032-trump-pardons-changpeng-zhao-founder-of-the-crypto.html
+ create mode 100644 public/articles/033-google-s-quantum-computer-makes-a-big-technical-le.html
+ create mode 100644 public/articles/034-reddit-accuses-data-scraper-companies-of-theft.html
+ create mode 100644 public/articles/035-with-halo-campaign-evolved-microsoft-brings-prized.html
+ create mode 100644 public/articles/036-celebrities-fight-sora-amazon-s-secret-automation-.html
+ create mode 100644 public/articles/037-after-teen-suicide-character-ai-lawsuit-raises-que.html
+ create mode 100644 public/articles/038-ford-s-profit-jumps-on-strong-sales-but-company-lo.html
+ create mode 100644 public/articles/039-tesla-s-profit-falls-37-after-it-cut-car-prices.html
+ create mode 100644 public/articles/040-does-your-electric-bill-keep-going-up-we-want-to-s.html
+To https://github.com/y4m4a3b/ai-directory.git
+   6e8dd44..9e5145e  main -> main
+✅ すべて完了: 2025-10-25 10:27:06
+=============================
+=============================
+🚀 パイプライン実行開始: 2025-10-25 10:33:26
+=============================
+📡 ステップ1: RSS収集中...
+Fetching: https://techcrunch.com/feed/
+Fetching: https://www.theverge.com/rss/index.xml
+Fetching: https://gigazine.net/news/rss_2.0/
+Fetching: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+✅ Done! Collected 40 items.
+File saved as: data/resources.json
+🧠 ステップ2: 要約生成中...
+✅ 要約付きデータを保存しました: data/resources_summarized.json
+🖋️ ステップ3: HTML生成中...
+✅ 40 個の記事HTMLを生成しました: public/articles
+✅ 一覧HTMLも生成しました: public/index.html
+📤 ステップ4: GitHubに自動プッシュ...
